@@ -4,7 +4,7 @@
 	predictor -> feature engineering, cleaning, prediction of data
  
 ## next steps
-- not extremely satisfied with accuracy and settign a goal of hitting above 70% accuracy for future games.
+- not extremely satisfied with accuracy and setting a goal of hitting above 70% accuracy for future games.
 - after researching, the upset rate of an NBA game is 32%, meaning simple logistic models are upper bounded to effectively 68%.
 - Looking at different research papers(linked below) and more, I noticed that most neural network models allow for accuracy over 70% and complex neural networks to hit high 70s.
 - Currently learning the use of neural networks to hopefully improve the accuracy
